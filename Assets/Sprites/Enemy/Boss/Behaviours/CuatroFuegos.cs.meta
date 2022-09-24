@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 13707672f55b8184ebfe3b2eb6ada26d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - fuegoPrefab: {fileID: 3850600494089585165, guid: d52d6d84331491d459d852803322d972,
+      type: 3}
+  - center: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

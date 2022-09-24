@@ -1,0 +1,560 @@
+fileFormatVersion: 2
+guid: 7272846e85284bf409ca1ab67f31b937
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9206074368828437602
+    second: '!$Dead-02-ObsidianGuard_0'
+  - first:
+      213: -6200282963405182026
+    second: '!$Dead-02-ObsidianGuard_1'
+  - first:
+      213: 6208635068811397182
+    second: '!$Dead-02-ObsidianGuard_2'
+  - first:
+      213: -4865765742682527571
+    second: '!$Dead-02-ObsidianGuard_3'
+  - first:
+      213: -9144229685707327899
+    second: '!$Dead-02-ObsidianGuard_4'
+  - first:
+      213: 5026435566492289937
+    second: '!$Dead-02-ObsidianGuard_5'
+  - first:
+      213: -1224934024565694581
+    second: '!$Dead-02-ObsidianGuard_6'
+  - first:
+      213: -4168675567291599291
+    second: '!$Dead-02-ObsidianGuard_7'
+  - first:
+      213: -1064970611473326773
+    second: '!$Dead-02-ObsidianGuard_8'
+  - first:
+      213: 6588063821270834927
+    second: '!$Dead-02-ObsidianGuard_9'
+  - first:
+      213: -8875648483347253093
+    second: '!$Dead-02-ObsidianGuard_10'
+  - first:
+      213: -355578738505621399
+    second: '!$Dead-02-ObsidianGuard_11'
+  - first:
+      213: 8334211398410392208
+    second: '!$Dead-02-ObsidianGuard_12'
+  - first:
+      213: -8138358329323117728
+    second: '!$Dead-02-ObsidianGuard_13'
+  - first:
+      213: 202596913358595837
+    second: '!$Dead-02-ObsidianGuard_14'
+  - first:
+      213: 698124080232176991
+    second: '!$Dead-02-ObsidianGuard_15'
+  - first:
+      213: 8662018092576293385
+    second: '!$Dead-02-ObsidianGuard_16'
+  - first:
+      213: 7329713881020373681
+    second: '!$Dead-02-ObsidianGuard_17'
+  - first:
+      213: -4068804325225122690
+    second: '!$Dead-02-ObsidianGuard_18'
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: '!$Dead-02-ObsidianGuard_0'
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 616
+        width: 56
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 264f8d1dcdb82cf70800000000000000
+      internalID: 9206074368828437602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Dead-02-ObsidianGuard_1'
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 647
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bbe35bce7b24f9a0800000000000000
+      internalID: -6200282963405182026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Dead-02-ObsidianGuard_2'
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 604
+        width: 61
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e38498843b0892650800000000000000
+      internalID: 6208635068811397182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Dead-02-ObsidianGuard_3'
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 602
+        width: 56
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da8a42346d3597cb0800000000000000
+      internalID: -4865765742682527571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Dead-02-ObsidianGuard_4'
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 452
+        width: 101
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56635de8c8b291180800000000000000
+      internalID: -9144229685707327899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Dead-02-ObsidianGuard_5'
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 456
+        width: 74
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19b892b348c71c540800000000000000
+      internalID: 5026435566492289937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Dead-02-ObsidianGuard_6'
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 448
+        width: 31
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8fd870aef8200fe0800000000000000
+      internalID: -1224934024565694581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Dead-02-ObsidianGuard_7'
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 454
+        width: 73
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 546fbbb78a3e526c0800000000000000
+      internalID: -4168675567291599291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Dead-02-ObsidianGuard_8'
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 450
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4dd6ee0fd67831f0800000000000000
+      internalID: -1064970611473326773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Dead-02-ObsidianGuard_9'
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 450
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee5370f3218d6b50800000000000000
+      internalID: 6588063821270834927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Dead-02-ObsidianGuard_10'
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 442
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b983ad6cabc53d480800000000000000
+      internalID: -8875648483347253093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Dead-02-ObsidianGuard_11'
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 243
+        width: 72
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 960e0b1750bb01bf0800000000000000
+      internalID: -355578738505621399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Dead-02-ObsidianGuard_12'
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 259
+        width: 72
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 092534d3c1119a370800000000000000
+      internalID: 8334211398410392208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Dead-02-ObsidianGuard_13'
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 257
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 063aad5e73ebe0f80800000000000000
+      internalID: -8138358329323117728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Dead-02-ObsidianGuard_14'
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 248
+        width: 72
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df6645db1d4cfc200800000000000000
+      internalID: 202596913358595837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Dead-02-ObsidianGuard_15'
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 242
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5d9263f62c30b900800000000000000
+      internalID: 698124080232176991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Dead-02-ObsidianGuard_16'
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 56
+        width: 62
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9024406df8ba53870800000000000000
+      internalID: 8662018092576293385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Dead-02-ObsidianGuard_17'
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 66
+        width: 88
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ba1877b0ff58b560800000000000000
+      internalID: 7329713881020373681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Dead-02-ObsidianGuard_18'
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 52
+        width: 72
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e74326e0604b887c0800000000000000
+      internalID: -4068804325225122690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

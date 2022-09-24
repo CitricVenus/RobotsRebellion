@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 21d13fdc070ced940aac7b23ccaef62a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - fuegoBala: {fileID: 3850600494089585165, guid: 3e954274f3bcfad44b05e3c1c449bb0d,
+      type: 3}
+  - bocaPoint: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

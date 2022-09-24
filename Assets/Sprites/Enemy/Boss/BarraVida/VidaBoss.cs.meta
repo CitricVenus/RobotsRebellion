@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: a9ba483fc25c1fd4295fbb567a8593eb
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - barraVida: {instanceID: 0}
+  - explosion: {instanceID: 0}
+  - portalFinal: {instanceID: 0}
+  - explosionFinal: {fileID: 7371391642302841511, guid: 04d1ce20f48e27e41b27a89b87a3b5ad,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

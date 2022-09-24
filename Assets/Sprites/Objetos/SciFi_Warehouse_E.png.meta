@@ -1,0 +1,4592 @@
+fileFormatVersion: 2
+guid: ca16484652ce33b4e9083a1c378e325b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4731190833894794630
+    second: SciFi_Warehouse_E_0
+  - first:
+      213: -1584650979844771137
+    second: SciFi_Warehouse_E_1
+  - first:
+      213: -611799200361082012
+    second: SciFi_Warehouse_E_2
+  - first:
+      213: 7436187583093662265
+    second: SciFi_Warehouse_E_3
+  - first:
+      213: 1445316431537184118
+    second: SciFi_Warehouse_E_4
+  - first:
+      213: -3720067449642143161
+    second: SciFi_Warehouse_E_5
+  - first:
+      213: -7505221273870207331
+    second: SciFi_Warehouse_E_6
+  - first:
+      213: 3530626373275816463
+    second: SciFi_Warehouse_E_7
+  - first:
+      213: -3254923059747238038
+    second: SciFi_Warehouse_E_8
+  - first:
+      213: 1643388799678915737
+    second: SciFi_Warehouse_E_9
+  - first:
+      213: -4857665992526587494
+    second: SciFi_Warehouse_E_10
+  - first:
+      213: -2168009418654042535
+    second: SciFi_Warehouse_E_11
+  - first:
+      213: 6148646384158178404
+    second: SciFi_Warehouse_E_12
+  - first:
+      213: 1627984999812197588
+    second: SciFi_Warehouse_E_13
+  - first:
+      213: -4118318885230736431
+    second: SciFi_Warehouse_E_14
+  - first:
+      213: -4800845749283391134
+    second: SciFi_Warehouse_E_15
+  - first:
+      213: -6115054838851131185
+    second: SciFi_Warehouse_E_16
+  - first:
+      213: -8889649058667026755
+    second: SciFi_Warehouse_E_17
+  - first:
+      213: -6581597568399384094
+    second: SciFi_Warehouse_E_18
+  - first:
+      213: -3522709191192351312
+    second: SciFi_Warehouse_E_19
+  - first:
+      213: 2260362602796555268
+    second: SciFi_Warehouse_E_20
+  - first:
+      213: -6355068603841614947
+    second: SciFi_Warehouse_E_21
+  - first:
+      213: 5426048577748308250
+    second: SciFi_Warehouse_E_22
+  - first:
+      213: -1545784773562707618
+    second: SciFi_Warehouse_E_23
+  - first:
+      213: 7614676123265854614
+    second: SciFi_Warehouse_E_24
+  - first:
+      213: -497651943194173483
+    second: SciFi_Warehouse_E_25
+  - first:
+      213: -1346977534489182560
+    second: SciFi_Warehouse_E_26
+  - first:
+      213: 1495949577204235551
+    second: SciFi_Warehouse_E_27
+  - first:
+      213: -4138634543338052101
+    second: SciFi_Warehouse_E_28
+  - first:
+      213: 5791128837119399461
+    second: SciFi_Warehouse_E_29
+  - first:
+      213: 2094436380165493071
+    second: SciFi_Warehouse_E_30
+  - first:
+      213: 7895313375433100304
+    second: SciFi_Warehouse_E_31
+  - first:
+      213: -8376195881942060915
+    second: SciFi_Warehouse_E_32
+  - first:
+      213: -4684237288174122496
+    second: SciFi_Warehouse_E_33
+  - first:
+      213: -6070602400253378356
+    second: SciFi_Warehouse_E_34
+  - first:
+      213: 1497022172943785580
+    second: SciFi_Warehouse_E_35
+  - first:
+      213: 5919466258880921223
+    second: SciFi_Warehouse_E_36
+  - first:
+      213: -6014935674692510256
+    second: SciFi_Warehouse_E_37
+  - first:
+      213: 6326871586112263980
+    second: SciFi_Warehouse_E_38
+  - first:
+      213: -7041766232906027608
+    second: SciFi_Warehouse_E_39
+  - first:
+      213: -8620909075180204834
+    second: SciFi_Warehouse_E_40
+  - first:
+      213: -4714511671524741265
+    second: SciFi_Warehouse_E_41
+  - first:
+      213: 4125866795781959012
+    second: SciFi_Warehouse_E_42
+  - first:
+      213: -1274953242197440423
+    second: SciFi_Warehouse_E_43
+  - first:
+      213: -9052601690703041023
+    second: SciFi_Warehouse_E_44
+  - first:
+      213: -8612019495201037773
+    second: SciFi_Warehouse_E_45
+  - first:
+      213: 5371290520591836630
+    second: SciFi_Warehouse_E_46
+  - first:
+      213: -9186288952742473539
+    second: SciFi_Warehouse_E_47
+  - first:
+      213: -1367495006571121163
+    second: SciFi_Warehouse_E_48
+  - first:
+      213: 370005375768057168
+    second: SciFi_Warehouse_E_49
+  - first:
+      213: 763763480053224438
+    second: SciFi_Warehouse_E_50
+  - first:
+      213: -4750322833109265411
+    second: SciFi_Warehouse_E_51
+  - first:
+      213: 6260959764612084933
+    second: SciFi_Warehouse_E_52
+  - first:
+      213: -2878796082248071515
+    second: SciFi_Warehouse_E_53
+  - first:
+      213: -971565787236218433
+    second: SciFi_Warehouse_E_54
+  - first:
+      213: -9208102675789948369
+    second: SciFi_Warehouse_E_55
+  - first:
+      213: 2565315281563477871
+    second: SciFi_Warehouse_E_56
+  - first:
+      213: -6772912233583328153
+    second: SciFi_Warehouse_E_57
+  - first:
+      213: -2609143665571732039
+    second: SciFi_Warehouse_E_58
+  - first:
+      213: 8740274831871088315
+    second: SciFi_Warehouse_E_59
+  - first:
+      213: 2144711633557976009
+    second: SciFi_Warehouse_E_60
+  - first:
+      213: 6357263239021080804
+    second: SciFi_Warehouse_E_61
+  - first:
+      213: -6199864401388964945
+    second: SciFi_Warehouse_E_62
+  - first:
+      213: -9200980908009012349
+    second: SciFi_Warehouse_E_63
+  - first:
+      213: 7282497643145102175
+    second: SciFi_Warehouse_E_64
+  - first:
+      213: 1742111086755419910
+    second: SciFi_Warehouse_E_65
+  - first:
+      213: 1876316707802004967
+    second: SciFi_Warehouse_E_66
+  - first:
+      213: -5172393400963717776
+    second: SciFi_Warehouse_E_67
+  - first:
+      213: 7485247562058427578
+    second: SciFi_Warehouse_E_68
+  - first:
+      213: -9192024591126955659
+    second: SciFi_Warehouse_E_69
+  - first:
+      213: 8763751636050206841
+    second: SciFi_Warehouse_E_70
+  - first:
+      213: 2455702420713474814
+    second: SciFi_Warehouse_E_71
+  - first:
+      213: -5119294614835082794
+    second: SciFi_Warehouse_E_72
+  - first:
+      213: 6805385934154928785
+    second: SciFi_Warehouse_E_73
+  - first:
+      213: -4589516496282801159
+    second: SciFi_Warehouse_E_74
+  - first:
+      213: -273174300433079666
+    second: SciFi_Warehouse_E_75
+  - first:
+      213: 8189204470449954179
+    second: SciFi_Warehouse_E_76
+  - first:
+      213: 1499783462753573185
+    second: SciFi_Warehouse_E_77
+  - first:
+      213: 3552986847994706727
+    second: SciFi_Warehouse_E_78
+  - first:
+      213: 8466319905708646019
+    second: SciFi_Warehouse_E_79
+  - first:
+      213: -4765237378555151214
+    second: SciFi_Warehouse_E_80
+  - first:
+      213: 3191976121906443450
+    second: SciFi_Warehouse_E_81
+  - first:
+      213: 7069459698787213909
+    second: SciFi_Warehouse_E_82
+  - first:
+      213: 4511134538269722168
+    second: SciFi_Warehouse_E_83
+  - first:
+      213: 7030286615950382527
+    second: SciFi_Warehouse_E_84
+  - first:
+      213: 7760015104005340210
+    second: SciFi_Warehouse_E_85
+  - first:
+      213: -6598867437839763313
+    second: SciFi_Warehouse_E_86
+  - first:
+      213: -8285520523960710135
+    second: SciFi_Warehouse_E_87
+  - first:
+      213: -1254348180827557114
+    second: SciFi_Warehouse_E_88
+  - first:
+      213: -3199393885503438453
+    second: SciFi_Warehouse_E_89
+  - first:
+      213: -5030748851252405588
+    second: SciFi_Warehouse_E_90
+  - first:
+      213: 3199878644569539241
+    second: SciFi_Warehouse_E_91
+  - first:
+      213: 6021781023839156135
+    second: SciFi_Warehouse_E_92
+  - first:
+      213: 5557612817711309559
+    second: SciFi_Warehouse_E_93
+  - first:
+      213: -1407139162594948848
+    second: SciFi_Warehouse_E_94
+  - first:
+      213: -311603847739550580
+    second: SciFi_Warehouse_E_95
+  - first:
+      213: 3306359288794670974
+    second: SciFi_Warehouse_E_96
+  - first:
+      213: 4695221128958817053
+    second: SciFi_Warehouse_E_97
+  - first:
+      213: -7240812812519163918
+    second: SciFi_Warehouse_E_98
+  - first:
+      213: -2665560847821356764
+    second: SciFi_Warehouse_E_99
+  - first:
+      213: 7262568828607862589
+    second: SciFi_Warehouse_E_100
+  - first:
+      213: -4932821218707890538
+    second: SciFi_Warehouse_E_101
+  - first:
+      213: -6597222068985582100
+    second: SciFi_Warehouse_E_102
+  - first:
+      213: 7796345418504713734
+    second: SciFi_Warehouse_E_103
+  - first:
+      213: 1298365019150496725
+    second: SciFi_Warehouse_E_104
+  - first:
+      213: -4945919933692149349
+    second: SciFi_Warehouse_E_105
+  - first:
+      213: -7464588040581289548
+    second: SciFi_Warehouse_E_106
+  - first:
+      213: 2735313019351925252
+    second: SciFi_Warehouse_E_107
+  - first:
+      213: 6859952287820301863
+    second: SciFi_Warehouse_E_108
+  - first:
+      213: 1820755395754832359
+    second: SciFi_Warehouse_E_109
+  - first:
+      213: 1699969605204832824
+    second: SciFi_Warehouse_E_110
+  - first:
+      213: -3942188347974011376
+    second: SciFi_Warehouse_E_111
+  - first:
+      213: -9011489769450276152
+    second: SciFi_Warehouse_E_112
+  - first:
+      213: -8522319489296405799
+    second: SciFi_Warehouse_E_113
+  - first:
+      213: -3331457949505470228
+    second: SciFi_Warehouse_E_114
+  - first:
+      213: -2020641848484889746
+    second: SciFi_Warehouse_E_115
+  - first:
+      213: 1876924816828495142
+    second: SciFi_Warehouse_E_116
+  - first:
+      213: -2498176150258325009
+    second: SciFi_Warehouse_E_117
+  - first:
+      213: -860821955890425165
+    second: SciFi_Warehouse_E_118
+  - first:
+      213: 7485671610847257014
+    second: SciFi_Warehouse_E_119
+  - first:
+      213: -7408978090030952317
+    second: SciFi_Warehouse_E_120
+  - first:
+      213: -2623557653635667711
+    second: SciFi_Warehouse_E_121
+  - first:
+      213: 5809015594208445023
+    second: SciFi_Warehouse_E_122
+  - first:
+      213: 6235472146581035480
+    second: SciFi_Warehouse_E_123
+  - first:
+      213: -8665441671620621217
+    second: SciFi_Warehouse_E_124
+  - first:
+      213: -801141478702703365
+    second: SciFi_Warehouse_E_125
+  - first:
+      213: -3666062604872872450
+    second: SciFi_Warehouse_E_126
+  - first:
+      213: 6363017846669679414
+    second: SciFi_Warehouse_E_127
+  - first:
+      213: 2668225796564425558
+    second: SciFi_Warehouse_E_128
+  - first:
+      213: -4759927851811316078
+    second: SciFi_Warehouse_E_129
+  - first:
+      213: 3774823389817782462
+    second: SciFi_Warehouse_E_130
+  - first:
+      213: 828889757424127166
+    second: SciFi_Warehouse_E_131
+  - first:
+      213: -3162621424357018746
+    second: SciFi_Warehouse_E_132
+  - first:
+      213: -7276217880562056852
+    second: SciFi_Warehouse_E_133
+  - first:
+      213: 2883773468148068709
+    second: SciFi_Warehouse_E_134
+  - first:
+      213: -5333608818206305605
+    second: SciFi_Warehouse_E_135
+  - first:
+      213: 5480917246540827629
+    second: SciFi_Warehouse_E_136
+  - first:
+      213: -4720380375945922543
+    second: SciFi_Warehouse_E_137
+  - first:
+      213: -6540725964405002180
+    second: SciFi_Warehouse_E_138
+  - first:
+      213: -3172972142892669056
+    second: SciFi_Warehouse_E_139
+  - first:
+      213: 3327146052449932646
+    second: SciFi_Warehouse_E_140
+  - first:
+      213: 7511993639373371443
+    second: SciFi_Warehouse_E_141
+  - first:
+      213: -4208871337488480310
+    second: SciFi_Warehouse_E_142
+  - first:
+      213: -8993075960903794446
+    second: SciFi_Warehouse_E_143
+  - first:
+      213: -7588370267161987618
+    second: SciFi_Warehouse_E_144
+  - first:
+      213: 1509779419734805199
+    second: SciFi_Warehouse_E_145
+  - first:
+      213: 2824122837382424712
+    second: SciFi_Warehouse_E_146
+  - first:
+      213: -2504385058817388341
+    second: SciFi_Warehouse_E_147
+  - first:
+      213: -9162472700774112193
+    second: SciFi_Warehouse_E_148
+  - first:
+      213: 4813565632681197026
+    second: SciFi_Warehouse_E_149
+  - first:
+      213: 8526453216145162650
+    second: SciFi_Warehouse_E_150
+  - first:
+      213: 2615741851674241529
+    second: SciFi_Warehouse_E_151
+  - first:
+      213: -822846243034584359
+    second: SciFi_Warehouse_E_152
+  - first:
+      213: -6260545873618878558
+    second: SciFi_Warehouse_E_153
+  - first:
+      213: 7503258677114110923
+    second: SciFi_Warehouse_E_154
+  - first:
+      213: 7345700584064499056
+    second: SciFi_Warehouse_E_155
+  - first:
+      213: 2185241039977086615
+    second: SciFi_Warehouse_E_156
+  - first:
+      213: -9011550546519959367
+    second: SciFi_Warehouse_E_157
+  - first:
+      213: -9132495172670309298
+    second: SciFi_Warehouse_E_158
+  - first:
+      213: -8543984514320047888
+    second: SciFi_Warehouse_E_159
+  - first:
+      213: 8103963812550339275
+    second: SciFi_Warehouse_E_160
+  - first:
+      213: 4075039912531725920
+    second: SciFi_Warehouse_E_161
+  - first:
+      213: -4565713804309529075
+    second: SciFi_Warehouse_E_162
+  - first:
+      213: -3403956822733897174
+    second: SciFi_Warehouse_E_163
+  - first:
+      213: 7527904849492362448
+    second: SciFi_Warehouse_E_164
+  - first:
+      213: 8272596109171290065
+    second: SciFi_Warehouse_E_165
+  - first:
+      213: 8878040302999927914
+    second: SciFi_Warehouse_E_166
+  - first:
+      213: -8827793779949527655
+    second: SciFi_Warehouse_E_167
+  - first:
+      213: -8158398181437278110
+    second: SciFi_Warehouse_E_168
+  - first:
+      213: 1649062729067149079
+    second: SciFi_Warehouse_E_169
+  - first:
+      213: -4961570448473709433
+    second: SciFi_Warehouse_E_170
+  - first:
+      213: 3795951496992355944
+    second: SciFi_Warehouse_E_171
+  - first:
+      213: -2352294182752751007
+    second: SciFi_Warehouse_E_172
+  - first:
+      213: 5439900712539175453
+    second: SciFi_Warehouse_E_173
+  - first:
+      213: -6214259331843332306
+    second: SciFi_Warehouse_E_174
+  - first:
+      213: 2762438040550594341
+    second: SciFi_Warehouse_E_175
+  - first:
+      213: -7965418622464771168
+    second: SciFi_Warehouse_E_176
+  - first:
+      213: 1326239211108814407
+    second: SciFi_Warehouse_E_177
+  - first:
+      213: 9052936764025233511
+    second: SciFi_Warehouse_E_178
+  - first:
+      213: 5619613601464166287
+    second: SciFi_Warehouse_E_179
+  - first:
+      213: 5566881542089280990
+    second: SciFi_Warehouse_E_180
+  - first:
+      213: 5779024454566027645
+    second: SciFi_Warehouse_E_181
+  - first:
+      213: 3342864080953864136
+    second: SciFi_Warehouse_E_182
+  - first:
+      213: 6187475034502775698
+    second: SciFi_Warehouse_E_183
+  - first:
+      213: -8904716983889713102
+    second: SciFi_Warehouse_E_184
+  - first:
+      213: 1980493970307260836
+    second: SciFi_Warehouse_E_185
+  - first:
+      213: 730941895947809459
+    second: SciFi_Warehouse_E_186
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 30
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_0
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 728
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7add15e00f675eb0800000000000000
+      internalID: -4731190833894794630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_1
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 727
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb2b0656450320ae0800000000000000
+      internalID: -1584650979844771137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_2
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 728
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4631c946ed37287f0800000000000000
+      internalID: -611799200361082012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_3
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 727
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 932e77d4535a23760800000000000000
+      internalID: 7436187583093662265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_4
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 730
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67d1fc903abce0410800000000000000
+      internalID: 1445316431537184118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_5
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 730
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74236934d5aaf5cc0800000000000000
+      internalID: -3720067449642143161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_6
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 724
+        width: 88
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d96f24a040918d790800000000000000
+      internalID: -7505221273870207331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_7
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 726
+        width: 83
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f021bbdfafd4ff030800000000000000
+      internalID: 3530626373275816463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_8
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 722
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6fc984f8b034d2d0800000000000000
+      internalID: -3254923059747238038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_9
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 757
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 994a7b0086d7ec610800000000000000
+      internalID: 1643388799678915737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_10
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 722
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9915fd448a169cb0800000000000000
+      internalID: -4857665992526587494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_11
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 724
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 956bc6b9beea9e1e0800000000000000
+      internalID: -2168009418654042535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_12
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 723
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46cfc393f41645550800000000000000
+      internalID: 6148646384158178404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_13
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 728
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc687d5bb3c79610800000000000000
+      internalID: 1627984999812197588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_14
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 747
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db0a0e2bcac8d6c0800000000000000
+      internalID: -4118318885230736431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_15
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 746
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 269f48c1a38ff5db0800000000000000
+      internalID: -4800845749283391134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_16
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 683
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc8ae34e506f22ba0800000000000000
+      internalID: -6115054838851131185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_17
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 683
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db62440d74f91a480800000000000000
+      internalID: -8889649058667026755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_18
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 683
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e1eaf0e1e779a4a0800000000000000
+      internalID: -6581597568399384094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_19
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 629
+        width: 42
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bde9fb97a2dc1fc0800000000000000
+      internalID: -3522709191192351312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_20
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 696
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c1443bfcb6e5f10800000000000000
+      internalID: 2260362602796555268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_21
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 675
+        width: 16
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b68c086c24ec7a0800000000000000
+      internalID: -6355068603841614947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_22
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 676
+        width: 49
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1193bade623d4b40800000000000000
+      internalID: 5426048577748308250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_23
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 711
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e51569830f44c8ae0800000000000000
+      internalID: -1545784773562707618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_24
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 713
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ce8eef693cca960800000000000000
+      internalID: 7614676123265854614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_25
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 683
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dfd020c13cf719f0800000000000000
+      internalID: -497651943194173483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_26
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 685
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ae3758a1139e4de0800000000000000
+      internalID: -1346977534489182560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_27
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 682
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d772fe63ea2c410800000000000000
+      internalID: 1495949577204235551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_28
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 686
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf5ac2d6fcd9096c0800000000000000
+      internalID: -4138634543338052101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_29
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 685
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 526d501aef83e5050800000000000000
+      internalID: 5791128837119399461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_30
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 597
+        width: 135
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f415b6c7acee01d10800000000000000
+      internalID: 2094436380165493071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_31
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 686
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01c841d0fa9c19d60800000000000000
+      internalID: 7895313375433100304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_32
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 684
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d80f0cf6936c1cb80800000000000000
+      internalID: -8376195881942060915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_33
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 676
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a0eba210f3efeb0800000000000000
+      internalID: -4684237288174122496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_34
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 635
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc08348c743e0cba0800000000000000
+      internalID: -6070602400253378356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_35
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 633
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e92371cbd76c410800000000000000
+      internalID: 1497022172943785580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_36
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 634
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78ef184233b262250800000000000000
+      internalID: 5919466258880921223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_37
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 634
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ddd0235fd7a68ca0800000000000000
+      internalID: -6014935674692510256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_38
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 634
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c27dbb5bf209dc750800000000000000
+      internalID: 6326871586112263980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_39
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 636
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8adab488bee964e90800000000000000
+      internalID: -7041766232906027608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_40
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 631
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edc41f42fd06c5880800000000000000
+      internalID: -8620909075180204834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_41
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 627
+        width: 47
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6fa5510d90b29eb0800000000000000
+      internalID: -4714511671524741265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_42
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 633
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46da921bdf5024930800000000000000
+      internalID: 4125866795781959012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_43
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 627
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 958c69df7c47e4ee0800000000000000
+      internalID: -1274953242197440423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_44
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 625
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e6b8c99b2be5280800000000000000
+      internalID: -9052601690703041023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_45
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 625
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 332adc5c5e5fb7880800000000000000
+      internalID: -8612019495201037773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_46
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 583
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d5ac492548aa8a40800000000000000
+      internalID: 5371290520591836630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_47
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 585
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db090b75edeb38080800000000000000
+      internalID: -9186288952742473539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_48
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 586
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f5353d698ea50de0800000000000000
+      internalID: -1367495006571121163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_49
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 576
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 055d3abcde5822500800000000000000
+      internalID: 370005375768057168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_50
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 577
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f31df8a6de699a00800000000000000
+      internalID: 763763480053224438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_51
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 586
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df358143d86731eb0800000000000000
+      internalID: -4750322833109265411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_52
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 590
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c477b2ebb563e650800000000000000
+      internalID: 6260959764612084933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_53
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 585
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a641d837367c08d0800000000000000
+      internalID: -2878796082248071515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_54
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 592
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb9ccd7601e4482f0800000000000000
+      internalID: -971565787236218433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_55
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 590
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2a573a276f363080800000000000000
+      internalID: -9208102675789948369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_56
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 586
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f67e87e28a4d99320800000000000000
+      internalID: 2565315281563477871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_57
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 576
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7644e5e3538c102a0800000000000000
+      internalID: -6772912233583328153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_58
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 576
+        width: 94
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b5e2a5f8a57acbd0800000000000000
+      internalID: -2609143665571732039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_59
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 537
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb696f0d6a1bb4970800000000000000
+      internalID: 8740274831871088315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_60
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 540
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c3fed71edb83cd10800000000000000
+      internalID: 2144711633557976009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_61
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 546
+        width: 29
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e03081db39893850800000000000000
+      internalID: 6357263239021080804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_62
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 543
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa3fe9bdc28a5f9a0800000000000000
+      internalID: -6199864401388964945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_63
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 542
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 383c8f0fc9c8f4080800000000000000
+      internalID: -9200980908009012349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_64
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 542
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f538849a501a01560800000000000000
+      internalID: 7282497643145102175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_65
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 543
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6079355adc83d2810800000000000000
+      internalID: 1742111086755419910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_66
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 543
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ed3ba6ca140a0a10800000000000000
+      internalID: 1876316707802004967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_67
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 486
+        width: 187
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 075abf83b97f738b0800000000000000
+      internalID: -5172393400963717776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_68
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 494
+        width: 28
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abce958cff0f0e760800000000000000
+      internalID: 7485247562058427578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_69
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 494
+        width: 28
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 579f837f55e5f6080800000000000000
+      internalID: -9192024591126955659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_70
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 494
+        width: 28
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 970658e3ea91f9970800000000000000
+      internalID: 8763751636050206841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_71
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 494
+        width: 28
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa81bc3758641220800000000000000
+      internalID: 2455702420713474814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_72
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 495
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d94f26cbac94f8b0800000000000000
+      internalID: -5119294614835082794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_73
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 491
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1929ebc5376917e50800000000000000
+      internalID: 6805385934154928785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_74
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 495
+        width: 41
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fba44c1013ce40c0800000000000000
+      internalID: -4589516496282801159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_75
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 495
+        width: 41
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e82abeccb6d753cf0800000000000000
+      internalID: -273174300433079666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_76
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 498
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38dd53ed316e5a170800000000000000
+      internalID: 8189204470449954179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_77
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 492
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1499e69fc1d40d410800000000000000
+      internalID: 1499783462753573185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_78
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 491
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72bfb56b6bebe4130800000000000000
+      internalID: 3552986847994706727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_79
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 492
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38e159609196e7570800000000000000
+      internalID: 8466319905708646019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_80
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 444
+        width: 41
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29c7eccf9d97eddb0800000000000000
+      internalID: -4765237378555151214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_81
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 444
+        width: 41
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab433cdfe5d2c4c20800000000000000
+      internalID: 3191976121906443450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_82
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 444
+        width: 41
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 552e624f324cb1260800000000000000
+      internalID: 7069459698787213909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_83
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 444
+        width: 41
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 836009726f4ca9e30800000000000000
+      internalID: 4511134538269722168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_84
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 446
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb5d7ecdd68909160800000000000000
+      internalID: 7030286615950382527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_85
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 442
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23c77ed6f9c11bb60800000000000000
+      internalID: 7760015104005340210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_86
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 442
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f883baf070d1c64a0800000000000000
+      internalID: -6598867437839763313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_87
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 443
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c0d166bfae30d80800000000000000
+      internalID: -8285520523960710135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_88
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 441
+        width: 41
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 603bd11b9f8a79ee0800000000000000
+      internalID: -1254348180827557114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_89
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 437
+        width: 91
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b81c20656387993d0800000000000000
+      internalID: -3199393885503438453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_90
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 438
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa55e6e2903f2ab0800000000000000
+      internalID: -5030748851252405588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_91
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 192
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a20ded6ca0486c20800000000000000
+      internalID: 3199878644569539241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_92
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 397
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a7fe19bfe9a19350800000000000000
+      internalID: 6021781023839156135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_93
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 397
+        width: 42
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f227d6896b902d40800000000000000
+      internalID: 5557612817711309559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_94
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 397
+        width: 41
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 019ccff0366d87ce0800000000000000
+      internalID: -1407139162594948848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_95
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 397
+        width: 41
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c84d6d093f5fcabf0800000000000000
+      internalID: -311603847739550580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_96
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 399
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e776b6c514c82ed20800000000000000
+      internalID: 3306359288794670974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_97
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 398
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d13bf7d8db6c82140800000000000000
+      internalID: 4695221128958817053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_98
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 396
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f7b2b84c17738b90800000000000000
+      internalID: -7240812812519163918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_99
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 395
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4214b6a1886020bd0800000000000000
+      internalID: -2665560847821356764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_100
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 351
+        width: 84
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d371ff1fed3d9c460800000000000000
+      internalID: 7262568828607862589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_101
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 346
+        width: 89
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69e186e9c391b8bb0800000000000000
+      internalID: -4932821218707890538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_102
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 347
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ced2fb95b75f174a0800000000000000
+      internalID: -6597222068985582100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_103
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 347
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 606b730f9de223c60800000000000000
+      internalID: 7796345418504713734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_104
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 345
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d3324b1b18b40210800000000000000
+      internalID: 1298365019150496725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_105
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 347
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9181c066009c5bb0800000000000000
+      internalID: -4945919933692149349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_106
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 347
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b9e586e9b4786890800000000000000
+      internalID: -7464588040581289548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_107
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 347
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40209f3e2b8c5f520800000000000000
+      internalID: 2735313019351925252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_108
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 347
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72648ab9242733f50800000000000000
+      internalID: 6859952287820301863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_109
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 340
+        width: 192
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e1b7dab26f944910800000000000000
+      internalID: 1820755395754832359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_110
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 288
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 832f13f5951879710800000000000000
+      internalID: 1699969605204832824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_111
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 295
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 016335985988a49c0800000000000000
+      internalID: -3942188347974011376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_112
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 295
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ca79d2bcc1c0f280800000000000000
+      internalID: -9011489769450276152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_113
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 295
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da6912e393aab980800000000000000
+      internalID: -8522319489296405799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_114
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 295
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce0439f45a844c1d0800000000000000
+      internalID: -3331457949505470228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_115
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 295
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6bf4c2d1fc35f3e0800000000000000
+      internalID: -2020641848484889746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_116
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 295
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6257d213d2d2c0a10800000000000000
+      internalID: 1876924816828495142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_117
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 290
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe9ef79f602b45dd0800000000000000
+      internalID: -2498176150258325009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_118
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 291
+        width: 84
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b25b40fdfebd04f0800000000000000
+      internalID: -860821955890425165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_119
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 293
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b1e6c55ba272e760800000000000000
+      internalID: 7485671610847257014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_120
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 290
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3809d0b7ea50e2990800000000000000
+      internalID: -7408978090030952317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_121
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 249
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 109e947d630479bd0800000000000000
+      internalID: -2623557653635667711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_122
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 249
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f52cf7bc7e4cd9050800000000000000
+      internalID: 5809015594208445023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_123
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 249
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d91ecf51e8d88650800000000000000
+      internalID: 6235472146581035480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_124
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 249
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c8f2d06ba2eb780800000000000000
+      internalID: -8665441671620621217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_125
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 249
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfc181bd116c1e4f0800000000000000
+      internalID: -801141478702703365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_126
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 251
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efd85380c778f1dc0800000000000000
+      internalID: -3666062604872872450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_127
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 250
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63b9732d40bfd4850800000000000000
+      internalID: 6363017846669679414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_128
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 242
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b91c0a931770520800000000000000
+      internalID: 2668225796564425558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_129
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 242
+        width: 84
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29e5c4486d651fdb0800000000000000
+      internalID: -4759927851811316078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_130
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 247
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb0cce78fddd26430800000000000000
+      internalID: 3774823389817782462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_131
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 242
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc893db7dec08b00800000000000000
+      internalID: 828889757424127166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_132
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 200
+        width: 45
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 683f822229c1c14d0800000000000000
+      internalID: -3162621424357018746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_133
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 204
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c61c0c0836ea50b90800000000000000
+      internalID: -7276217880562056852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_134
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 203
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56179adb0b8350820800000000000000
+      internalID: 2883773468148068709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_135
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 199
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb21cebd9073bf5b0800000000000000
+      internalID: -5333608818206305605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_136
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 199
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: debc0635231201c40800000000000000
+      internalID: 5480917246540827629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_137
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 201
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 118b407ce07dd7eb0800000000000000
+      internalID: -4720380375945922543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_138
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 201
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c30377eb36caa35a0800000000000000
+      internalID: -6540725964405002180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_139
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 194
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0872caca5a657f3d0800000000000000
+      internalID: -3172972142892669056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_140
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 194
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6651f1ce4b56c2e20800000000000000
+      internalID: 3327146052449932646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_141
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 194
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 338f7dd2a66ff3860800000000000000
+      internalID: 7511993639373371443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_142
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 196
+        width: 81
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac70daf61d51795c0800000000000000
+      internalID: -4208871337488480310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_143
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 147
+        width: 15
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f089389f0d223380800000000000000
+      internalID: -8993075960903794446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_144
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 152
+        width: 47
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed57ca96271b0b690800000000000000
+      internalID: -7588370267161987618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_145
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 151
+        width: 42
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fca0d721260d3f410800000000000000
+      internalID: 1509779419734805199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_146
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 153
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8886f3cf1cc413720800000000000000
+      internalID: 2824122837382424712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_147
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 153
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc0d46cce03ae3dd0800000000000000
+      internalID: -2504385058817388341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_148
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 153
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f34252e9f9b58d080800000000000000
+      internalID: -9162472700774112193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_149
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 156
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2edbdf680783dc240800000000000000
+      internalID: 4813565632681197026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_150
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 149
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a91c156660c045670800000000000000
+      internalID: 8526453216145162650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_151
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 149
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f96a25fa5bfc4420800000000000000
+      internalID: 2615741851674241529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_152
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 145
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9daa82b93b9a494f0800000000000000
+      internalID: -822846243034584359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_153
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 150
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2afb8ee92b21e19a0800000000000000
+      internalID: -6260545873618878558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_154
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 150
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc3014b430ee02860800000000000000
+      internalID: 7503258677114110923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_155
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 114
+        width: 46
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07d3b8313cb21f560800000000000000
+      internalID: 7345700584064499056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_156
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 106
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79e7070e529835e10800000000000000
+      internalID: 2185241039977086615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_157
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 106
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b8533fe58a80f280800000000000000
+      internalID: -9011550546519959367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_158
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 100
+        width: 14
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4c3408c60cd24180800000000000000
+      internalID: -9132495172670309298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_159
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 103
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f0e3892a5bad6980800000000000000
+      internalID: -8543984514320047888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_160
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 107
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcaeeaf9620177070800000000000000
+      internalID: 8103963812550339275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_161
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 107
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06e0effb5337d8830800000000000000
+      internalID: 4075039912531725920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_162
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 104
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e78043c7353a0c0800000000000000
+      internalID: -4565713804309529075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_163
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 98
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a22cd2efd47b2c0d0800000000000000
+      internalID: -3403956822733897174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_164
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 98
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d4cee8739d787860800000000000000
+      internalID: 7527904849492362448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_165
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 98
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dfee69c45a2ec270800000000000000
+      internalID: 8272596109171290065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_166
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 100
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c79e12e92253b70800000000000000
+      internalID: 8878040302999927914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_167
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 101
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99d94bb24506d7580800000000000000
+      internalID: -8827793779949527655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_168
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 56
+        width: 74
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 268fc3b341c87ce80800000000000000
+      internalID: -8158398181437278110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_169
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 61
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7173262a0d5a2e610800000000000000
+      internalID: 1649062729067149079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_170
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 62
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78426a2f6f5f42bb0800000000000000
+      internalID: -4961570448473709433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_171
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 62
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86677d256cdeda430800000000000000
+      internalID: 3795951496992355944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_172
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 0
+        width: 42
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 162fdcd57e8fa5fd0800000000000000
+      internalID: -2352294182752751007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_173
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 62
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1aba4050e86e7b40800000000000000
+      internalID: 5439900712539175453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_174
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 0
+        width: 42
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e27625fef0482c9a0800000000000000
+      internalID: -6214259331843332306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_175
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 9
+        width: 96
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5275b0903c6265620800000000000000
+      internalID: 2762438040550594341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_176
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 52
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0abb4b827f5257190800000000000000
+      internalID: -7965418622464771168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_177
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 55
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ec559298fb76210800000000000000
+      internalID: 1326239211108814407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_178
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 47
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7606cc9b50e72ad70800000000000000
+      internalID: 9052936764025233511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_179
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5
+        width: 93
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f87a93aebc0ecfd40800000000000000
+      internalID: 5619613601464166287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_180
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 14
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edd09e69449814d40800000000000000
+      internalID: 5566881542089280990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_181
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 13
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7124b27f18333050800000000000000
+      internalID: 5779024454566027645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_182
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 13
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cfeaad9b2d346e20800000000000000
+      internalID: 3342864080953864136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_183
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 34
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 293c220e2c35ed550800000000000000
+      internalID: 6187475034502775698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_184
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 4
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 238add515171c6480800000000000000
+      internalID: -8904716983889713102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_185
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 6
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a1a7fbd5c02c7b10800000000000000
+      internalID: 1980493970307260836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi_Warehouse_E_186
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 14
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b27b6b18c3d42a00800000000000000
+      internalID: 730941895947809459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
